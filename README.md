@@ -50,6 +50,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=NinadGowda&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
+🏴‍☠️ "I’m gonna be King of the Pirates! So no matter what… I’ll chase my dreams to the end!" – Monkey D. Luffy
 <!--
 **ninadgowdru/ninadgowdru** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
