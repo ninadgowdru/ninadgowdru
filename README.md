@@ -22,7 +22,16 @@
 </p>
 
 ---
+🚀 Present Status
 
+- 👉 Still Learning Bug Hunting & Malware Forensics.  
+- 👉 Managing Tech Communities & Content Creator.  
+- 👉 Writing Useful Tools For Myself & Communities.  
+- 👉 Building & Contributing To Open Source Projects.  
+- 👉 Currently Learning Mobile Pentesting & Web3.  
+- 🔄 Updating: Journey to Cybersecurity Specialist.
+
+---
 ### 🔧 Tech Stack
 
 <p align="center">
