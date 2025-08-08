@@ -13,7 +13,7 @@
   <a href="https://twitter.com/yourtwitter" target="_blank" rel="noopener">
     <img src="https://img.shields.io/twitter/follow/yourtwitter?style=social" alt="Twitter Follow" />
   </a>
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank" rel="noopener">
+  <a href="https://www.linkedin.com/in/ninad-gowda-0446522a6" target="_blank" rel="noopener">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:youremail@example.com">
